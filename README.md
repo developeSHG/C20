@@ -7,7 +7,7 @@
 
 <h3>Chapter 01. Concept</h3>
 <b>Blog</b> : https://song-ift.tistory.com/471
-<br><b>History</b> : 
+<br><b>History</b> : https://github.com/developeSHG/CPP20-4th_Emperor/commit/978ee4946379c5c446ef2d1fb9e7f8354ec1e671
 
 <br><h3>Chapter 02. Module</h3>
 <b>Blog</b> :
